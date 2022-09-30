@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"NerduMiner"
+	],
+	"copyright": "Copyright © 2022, NerduMiner",
+	"dependencies": {
+		"arsd-official:png": "~>10.9.2"
+	},
+	"description": "Creates map data from a 48x48 palletted image that can be used in SRB2P.",
+	"license": "MIT",
+	"name": "srb2p-map-maker"
+}
